@@ -64,14 +64,6 @@ Built a functional prediction system that:
 - **Matplotlib/Seaborn** - Data visualization
 - **GridSearchCV** - Hyperparameter optimization
 
-## 📋 Key Features
-
-- **Comprehensive EDA** with insightful visualizations
-- **Multiple ML algorithms** for comparison
-- **Hyperparameter tuning** for optimal performance
-- **Model evaluation** using accuracy and ROC AUC metrics
-- **Prediction function** for real-world application
-- **Standardized preprocessing** pipeline
 
 ## 🔍 Model Insights
 
@@ -79,22 +71,6 @@ Built a functional prediction system that:
 - All models achieved reasonable accuracy (>73%), indicating good predictive capability
 - The ensemble approach of Random Forest proved most effective for this medical dataset
 - ROC AUC scores indicate decent discrimination between diabetic and non-diabetic cases
-
-## 💡 Future Improvements
-
-- Feature engineering to create more predictive variables
-- Cross-validation for more robust performance estimates
-- Additional algorithms (XGBoost, Neural Networks)
-- Feature importance analysis
-- Model interpretability enhancements
-
-## 🏥 Real-World Application
-
-This model could serve as a screening tool in healthcare settings to:
-- Identify high-risk individuals for diabetes
-- Support clinical decision-making
-- Enable early intervention strategies
-- Reduce healthcare costs through preventive care
 
 ## 📝 Usage
 
